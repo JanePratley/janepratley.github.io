@@ -1,0 +1,20 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: What is Postural Care
+  url: "/postural_care/"
+  side: left
+
+- title: Services
+  url: "/services/"
+  side: left
+
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
