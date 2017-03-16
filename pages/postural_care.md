@@ -11,6 +11,7 @@ header:
   image_fullwidth: "pp_logo_wide.png"
   caption: ""
 ---
+
 Postural care is a gentle, respectful and evolving process which aims to promote quality of life, function and comfort for individuals through the protection of body shape.
 
 Any individual who spends prolonged periods of time in one positon is at risk of potentially life limiting body shape changes.
