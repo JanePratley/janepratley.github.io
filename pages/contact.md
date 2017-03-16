@@ -2,12 +2,12 @@
 layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Any questions or queries? Use the contact form."
 permalink: "/contact/"
 breadcrumb: true
 header:
-  title: "Contact"
-  image_fullwidth: "profile.png"
+  title: ""
+  image_fullwidth: "pp_logo_wide.png"
   caption: ""
 ---
 <div class="panel">

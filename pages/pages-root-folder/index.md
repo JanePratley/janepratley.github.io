@@ -56,11 +56,11 @@ homepage: true
 [<img src="../images/buttons/button_about.png">](/../about/)
 [<img src="../images/buttons/button_contact.png">](/../contact/)
 
-Posture Partnership believes that postural care should be the foundation upon which all care and rehabilitation should be built.
+**Posture Partnership believes that postural care should be one of the key foundations upon which all care and rehabilitation should be built.**
 
-Body shape changes brought about by reduced mobility should not be inevitable and prevention is important at all stages of life.  
+**Body shape changes brought about by reduced mobility should not be inevitable and prevention is important at all stages of life.**
 
-Posture Partnership believes that though collaborative working and training anybody can be empowered to make a profound impact on the quality and even length of people's lives through a postural care approach.
+**Posture Partnership believes that though collaborative working and training anybody can be empowered to make a profound impact on the quality and even length of people's lives through a postural care approach.**
 
 <BR>
 
