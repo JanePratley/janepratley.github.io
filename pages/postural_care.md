@@ -1,16 +1,22 @@
 ---
-layout: page
-title: "What is Postural Care?"
+layout: page-fullwidth
+title: ""
 meta_teaser: "What is Postural Care?"
 teaser: "What is Postural Care?"
 permalink: "/postural_care/"
 teaser: ""
-breadcrumb: true
+breadcrumb: false
 header:
   title: ""
   image_fullwidth: "pp_logo_wide.png"
   caption: ""
 ---
+[<img src="../images/buttons/button_what-is-postural-care.png">](/../postural_care/)
+[<img src="../images/buttons/button_services.png">](/../services/)
+[<img src="../images/buttons/button_about.png">](/../about/)
+[<img src="../images/buttons/button_contact.png">](/../contact/)
+
+# What is Postural Care?
 
 Postural care is a gentle, respectful and evolving process which aims to promote quality of life, function and comfort for individuals through the protection of body shape.
 
