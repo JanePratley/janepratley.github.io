@@ -25,12 +25,12 @@ author: Jane Pratley
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.posturepartnership.com'
+url: 'https://janepratley.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/janepratley/janepratley.github.io
+improve_content: https://github.com/markpratley/markpratley.github.io
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
