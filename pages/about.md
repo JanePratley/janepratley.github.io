@@ -17,7 +17,7 @@ header:
 [<img src="../images/buttons/button_about.png">](/../about/)
 [<img src="../images/buttons/button_contact.png">](/../contact/)
 
-#About
+# About
 
 Posture partnership is run by Honey Pratley.
 
