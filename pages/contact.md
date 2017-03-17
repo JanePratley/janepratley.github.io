@@ -21,6 +21,6 @@ header:
 ### Any questions or queries? Use the contact form.
 
 <div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://markpratley.wufoo.com/forms/contact/"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://markpratley.wufoo.com/forms/please-use-this-form-for-any-questions-or-queries/"></iframe>
 </div>
 
