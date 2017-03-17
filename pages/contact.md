@@ -18,9 +18,13 @@ header:
 
 # Contact
 
-### Any questions or queries? Use the contact form.
+Please use this form for any questions or queries.
+I'll get back to you as soon as I can.
+
+Thanks,
+Jane
 
 <div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://markpratley.wufoo.com/forms/please-use-this-form-for-any-questions-or-queries/"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://markpratley.wufoo.com/forms/meu8crm1pl2gmq/"></iframe>
 </div>
 
