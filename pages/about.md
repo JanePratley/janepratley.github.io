@@ -19,14 +19,10 @@ header:
 
 # About
 
-Posture partnership is run by Honey Pratley.
+Jane is a Physiotherapist specialising in Posture and Seating. She worked as a neuro-physiotherapist for 12 years, before completing post-graduate study in postural care, and has spent the last 10 years working with people who have complex physical disability, focusing on a 24-hour postural care approach.
 
-She's great.
+She has worked both for the NHS and independently in a variety of neuro-rehabilitation and community settings, and she's particularly interested in working with people living in Care home environments. 
 
-Once she was a physio.
+Jane is passionate about postural care and believes that it should be one of the core principles for care and rehabilitation. Through her work, she strives to challenge the idea that body shape changes, brought about by reduced mobility, are inevitable and believes that quality of life can always be enhanced through postural care including access to the right equipment.
 
-Then did lots of posture stuff.
-
-Now she's running Posture Partnership.
-
-She's always been a bear.
+She is the founder of Posture Partnership which supports individuals and organisations to access the right postural equipment through specialist assessment, and provides training to develop confidence and knowledge in postural care and positioning to protect body shape and enable people to live their lives to the full in comfort.

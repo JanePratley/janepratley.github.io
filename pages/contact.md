@@ -18,10 +18,18 @@ header:
 
 # Contact
 
-Please use this form for any questions or queries.
-I'll get back to you as soon as I can.
+If you have any questions or queries, please don't hesitate to contact me.
 
-Thanks,
+Either by email:  
+[janepratley@gmail.com](mailto:janepratley@gmail.com)
+
+or phone:  
+07538 987772
+
+or use the form below.
+
+And I'll get back to you as soon as I can.  
+Thanks,  
 Jane
 
 <div class="panel">

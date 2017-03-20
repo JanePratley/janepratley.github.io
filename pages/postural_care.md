@@ -45,5 +45,4 @@ Posture Partnership provides training to individuals, support teams, healthcare 
   <img style="float: left;" src="../images/posture_examples/1_before.jpg">  | <img style="float: right;" src="../images/posture_examples/1_after.jpg">
   <img style="float: left;" src="../images/posture_examples/2_before.jpg">  | <img style="float: right;" src="../images/posture_examples/2_after.jpg">
   <img style="float: left;" src="../images/posture_examples/3_before.jpg">  | <img style="float: right;" src="../images/posture_examples/3_after.jpg">
-  <img style="float: left;" src="../images/posture_examples/4_before.jpg">  | <img style="float: right;" src="../images/posture_examples/4_after.jpg">
 
