@@ -21,7 +21,7 @@ header:
 If you have any questions or queries, please don't hesitate to contact me.
 
 Either by email:  
-[janepratley@gmail.com](mailto:janepratley@gmail.com)
+[jane@posturepartnership.com](mailto:jane@posturepartnership.com)
 
 or phone:  
 07538 987772
